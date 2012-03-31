@@ -1,0 +1,9 @@
+c:\users\fikry\documents\visual studio 11\Projects\ongkir\ongkir\bin\Debug\resources.pri
+c:\users\fikry\documents\visual studio 11\Projects\ongkir\ongkir\bin\Debug\AppxManifest.xml
+c:\users\fikry\documents\visual studio 11\Projects\ongkir\ongkir\bin\Debug\ongkir.build.appxrecipe
+c:\users\fikry\documents\visual studio 11\Projects\ongkir\ongkir\bld\Debug\priconfig.xml
+c:\users\fikry\documents\visual studio 11\Projects\ongkir\ongkir\bld\Debug\layout.resfiles
+c:\users\fikry\documents\visual studio 11\Projects\ongkir\ongkir\bld\Debug\resources.resfiles
+c:\users\fikry\documents\visual studio 11\Projects\ongkir\ongkir\bld\Debug\pri.resfiles
+c:\users\fikry\documents\visual studio 11\Projects\ongkir\ongkir\bld\Debug\LanguageQualifiers.txt
+c:\users\fikry\documents\visual studio 11\Projects\ongkir\ongkir\bld\Debug\ProjectArchitectures.txt

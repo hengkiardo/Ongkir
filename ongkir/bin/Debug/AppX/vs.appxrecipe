@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>FIKRYSTARK</Machine>
+    <WindowsUser>fikry</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>F00071E1599509753618E92D66B0EF1C9BD49F7D60FC1807296358E3884FF255</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>5d0b3819-d68b-44be-8f8d-24b014f56418_1.0.0.0_neutral__0ac4h76t294q0</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>5d0b3819-d68b-44be-8f8d-24b014f56418_0ac4h76t294q0!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>5d0b3819-d68b-44be-8f8d-24b014f56418</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=fikry</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\fikry\Documents\Visual Studio 11\Projects\ongkir\ongkir\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <Modified>2012-03-30T17:56:39.917</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\fikry\Documents\Visual Studio 11\Projects\ongkir\ongkir\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2012-03-30T18:17:56.396</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fikry\Documents\Visual Studio 11\Projects\ongkir\ongkir\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <Modified>2012-02-14T04:25:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fikry\Documents\Visual Studio 11\Projects\ongkir\ongkir\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <Modified>2012-02-14T04:25:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fikry\Documents\Visual Studio 11\Projects\ongkir\ongkir\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <Modified>2012-02-14T04:25:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fikry\Documents\Visual Studio 11\Projects\ongkir\ongkir\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <Modified>2012-02-14T04:25:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fikry\Documents\Visual Studio 11\Projects\ongkir\ongkir\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2012-03-30T18:47:24.848</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fikry\Documents\Visual Studio 11\Projects\ongkir\ongkir\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2012-03-30T18:17:25.510</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fikry\Documents\Visual Studio 11\Projects\ongkir\ongkir\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-03-30T16:34:04.896</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS\0.6\">
+      <Name>Microsoft.WinJS.0.6.Debug</Name>
+      <Version>0.6.8229.0</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.0.6.Debug, MinVersion=0.6.8229.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS\0.6\Microsoft.WinJS.0.6.Debug.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
